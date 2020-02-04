@@ -1,5 +1,5 @@
 # Day1 code해설
-##목표: Tensorflow 기초 및 Linear Regression Model 구현하기
+## 목표: Tensorflow 기초 및 Linear Regression Model 구현하기
 ## 1. Tensorflow 기초(1)
 우선 가장 먼저 Tensorflow를 사용하기위해 Tensorflow 라이브러리를 tf로써 import합니다. 
 ```python
@@ -199,4 +199,4 @@ print("X: 2.5, Y",sess.run(hypo, feed_dict={X: 2.5}))
 >y=x의 그래프가 나와야 하며 위 출력을 보면 Y가 X와 거의 비슷한 값을 내는것으로 보아
 >정상적으로 학습된것을 확인할수 있습니다.
 
-Day2 예고: 기본신경망 구현하기
+Day2: [기본신경망 구현하기](https://github.com/wotjd0715/DeepLearning/tree/master/Day2)
