@@ -16,8 +16,8 @@
 단, 은닉층이 깊어질수록 성능은 좋아지지만 그만큼 학습이 어렵고 시간이 오래걸리는 단점이 있다.
 
 - 인공신경망   
-  ![git](https://github.com/wotjd0715/ABL/blob/master/Day2/layer1.png)
+  ![git](https://github.com/wotjd0715/DeepLearning/blob/master/Day2/layer1.png)
  
  - 심층신경망   
-  ![git](https://github.com/wotjd0715/ABL/blob/master/Day2/layer2.png)
+  ![git](https://github.com/wotjd0715/DeepLearning/blob/master/Day2/layer2.png)
 
