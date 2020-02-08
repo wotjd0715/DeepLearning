@@ -32,5 +32,5 @@ Dropout은 위에서 말한 Overfitting을 방지하기 위해 나온 개념으�
 
 ***
 ##### 사진출처
-https://untitledtblog.tistory.com/68 (Overfitting)
+https://untitledtblog.tistory.com/68 (Overfitting)   
 https://pythonkim.tistory.com/42 (Dropout)
