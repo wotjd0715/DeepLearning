@@ -22,15 +22,15 @@ MNIST란 손글씨로 쓴 숫자들의 이미지를 모아놓은 데이터셋으
 
 ### **3. DropOut**
 Dropout은 위에서 말한 Overfitting을 방지하기 위해 나온 개념으로 학습 단계마다 일부분의 뉴런을 제거하여
-학습데이터의 특징들이 특정 뉴런들에 고정되는 것을 막아 가중치의 균형을 잡도록 한다.
-다만, 일부 뉴런을 학습에서 제외하므로 충분히 학습하는데 시간이 조금 더 오래 걸린다.  
+학습데이터의 특징들이 특정 뉴런들에 고정되는 것을 막아 가중치의 균형을 잡도록 합니다.   
+다만, 일부 뉴런을 학습에서 제외하므로 충분히 학습하는데 시간이 조금 더 오래 걸립니다.   
  
 ![git](https://github.com/wotjd0715/DeepLearning/blob/master/Day4/dropout.png)   
 
 **p.s** Overfitting을 막는 다른 방법중 ```Batch Normalization```기법이 있는데 이는 학습속도 역시 
-향상시켜 주는 장점이 있다.
+향상시켜 주는 장점이 있습니다.
 
 ***
 ##### 사진출처
-https://untitledtblog.tistory.com/68 (Overfitting)
+https://untitledtblog.tistory.com/68 (Overfitting)   
 https://pythonkim.tistory.com/42 (Dropout)
