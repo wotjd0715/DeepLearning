@@ -14,7 +14,7 @@ RNN의 개념은 다른 신경망과는 조금 다릅니다.
 순차적으로 정보를 받는 ``RNN``과 출력하는 신경망을 조합한 모델로, 번역 등 문장을 입력받아
 다른 문장을 출력하는 프로그램에서 많이 사용합니다. 
 
-![git](https://github.com/wotjd0715/DeepLearning/blob/master/Day8/s2s.PNG)
+![git](https://github.com/wotjd0715/DeepLearning/blob/master/Day8/s2s.png)
 
 인코더에서는 원문을 디코더에서는 번역한 결과물을 입력 받습니다. 그후, 디코더가 출력한 결과물을 변역된 결과물과 비교해가면서
 학습합니다.    
@@ -24,5 +24,5 @@ Seq2Seq 모델에서는 위 그림처럼 특수한 ``Symbol``이 필요한데
    
       
 ##### **사진출처**   
-https://pythonkim.tistory.com/57 (RNN)
+https://pythonkim.tistory.com/57 (RNN)   
 https://d2l.ai/chapter_recurrent-modern/seq2seq.html (Seq2Seq)
