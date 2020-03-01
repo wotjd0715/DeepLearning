@@ -15,7 +15,7 @@
 누적보상값(reward)이 최대가 되도록 행동(action)을 선택하는 정책(policy)를 찾는 것이다.
 
 ### **2. Autoencoder란?**
-![git](https://github.com/wotjd0715/DeepLearning/blob/master/Day6/auto1.png)   
+![git](https://github.com/wotjd0715/DeepLearning/blob/master/6.Autoencoder/auto1.png)   
 ```Autoencoder```란 비지도학습 중 가장 널리 쓰이는 신경망으로 써 입력값과 
 출력값을 같게 하는 신경망이며 가운데 은닉층의 노드 수가 입력값보다 적은 것이
 특징입니다. 이런 구조로 인해 데이터를 압축하는 효과를 얻게 되고 또 이 과정이
