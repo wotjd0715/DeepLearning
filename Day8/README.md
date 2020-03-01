@@ -24,5 +24,5 @@ Seq2Seq 모델에서는 위 그림처럼 특수한 ``Symbol``이 필요한데
    
       
 ##### **사진출처**   
-https://pythonkim.tistory.com/57 (RNN)
+https://pythonkim.tistory.com/57 (RNN)   
 https://d2l.ai/chapter_recurrent-modern/seq2seq.html (Seq2Seq)
